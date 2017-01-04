@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/open-falcon/mail-provider/config"
+	"github.com/XieXianbin/mail-provider/config"
 	"github.com/toolkits/smtp"
 	"github.com/toolkits/web/param"
 )
